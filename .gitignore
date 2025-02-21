@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+config.ini
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Logs and temp files
+*.log
+tmp/
+
+# Node.js dependencies
+node_modules/
